@@ -18,6 +18,10 @@
 
 ## :rocket: Sobre o desafio
 
+🚧  Em andamento
+
+<br>
+
 Simples Projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/). 
 
 <br>
