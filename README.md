@@ -16,7 +16,7 @@
 
 <br>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre 
 
 🚧  Em andamento
 
