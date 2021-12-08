@@ -35,7 +35,7 @@ export function TransactionsTable() {
             return (
               <tr key={transaction.id}>
                 <td>{transaction.title}</td>
-                <td className={transaction.type}>{transaction.amout}</td>
+                <td className={transaction.type}>{transaction.amount}</td>
                 <td>{transaction.category}</td>
                 <td>{transaction.createdAt}</td>
               </tr>
