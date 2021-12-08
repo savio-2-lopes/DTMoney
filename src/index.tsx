@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { createServer, Model } from "miragejs";
 import { App } from "./App";
-import { throws } from "assert";
 
 createServer({
   models: {
@@ -21,7 +20,7 @@ createServer({
           createdAt: new Date("2021-02-12 09:00:00"),
         },
         {
-          id: 1,
+          id: 2,
           title: "Aluguel",
           type: "withdraw",
           category: "Casa",
