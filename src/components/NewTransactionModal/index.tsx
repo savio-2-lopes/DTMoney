@@ -18,6 +18,8 @@ export function NewTransactionModal({
 }: NewTransactionModalProps) {
   const [type, setType] = useState("deposit");
 
+  function handleCreateNewTransaction() {}
+
   return (
     <Modal
       isOpen={isOpen}
@@ -32,7 +34,7 @@ export function NewTransactionModal({
       >
         <img src={closeImg} alt="Botão de fechar modal" />
       </button>
-      <Container>
+      <Container onSubmit={handleCreateNewTransaction}>
         <h2>Cadastrar Transação</h2>
         <input type="text" placeholder="Titulo" />
         <input type="number" placeholder="Valor" />
