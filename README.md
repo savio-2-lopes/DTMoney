@@ -4,6 +4,12 @@
   Projeto DTMoney
 </h3>
 
+<br>
+
+<p align="center">
+  <img src=".github/gif.gif" alt="Gif" >
+</p>
+
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
@@ -16,13 +22,11 @@
 
 <br>
 
-## :rocket: Sobre 
-
-🚧  Em andamento
+## :rocket: Sobre
 
 <br>
 
-Simples Projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/). 
+Simples Projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
 
 <br>
 
@@ -36,7 +40,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <br>
 
-#### 🧭 Rodando a aplicação 
+#### 🧭 Rodando a aplicação
 
 ```bash
 # Clone este repositório
@@ -46,7 +50,7 @@ $ git clone https://github.com/savio-2-lopes/ignite-dtmoney
 $ cd ignite-dtmoney
 
 # Instale as dependências
-$ yarn 
+$ yarn
 
 # Rode a aplicação
 $ yarn start
@@ -63,12 +67,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 <br>
 
-## :man_technologist:  Autor
+## :man_technologist: Autor
 
-[![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com)
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
 
