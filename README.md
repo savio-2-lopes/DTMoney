@@ -1,10 +1,6 @@
 <img src=".github/ignite.png" alt="Ignite" >
 
 <p align="center">
-  <img src=".github/gif.gif" width="800" alt="Gif" >
-</p>
-
-<p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
@@ -12,6 +8,12 @@
   <a href="https://www.linkedin.com/in/savio-lopes/">
     <img alt="Solved by Savio Lopes" src="https://img.shields.io/badge/solved%20by-Savio%20Lopes-%2306b656?style=flat-square">
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src=".github/gif.gif" width="800" alt="Gif" >
 </p>
 
 <br>
