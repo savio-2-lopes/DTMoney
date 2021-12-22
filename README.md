@@ -1,11 +1,5 @@
 <img src=".github/ignite.png" alt="Ignite" >
 
-<h3 align="center">
-  Projeto DTMoney
-</h3>
-
-<br>
-
 <p align="center">
   <img src=".github/gif.gif" width="800" alt="Gif" >
 </p>
