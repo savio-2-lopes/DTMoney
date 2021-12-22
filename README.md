@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/gif.gif" alt="Gif" >
+  <img src=".github/gif.gif" width="800" alt="Gif" >
 </p>
 
 <p align="center">
