@@ -23,7 +23,7 @@ Simples projeto de Gestão pessoal do Profissional de TI React.js com Typescript
 <br>
 
 <p align="center">
-  <img src=".github/gif.gif" width="800" alt="Gif" >
+  <img src=".github/gif.gif" width="800" alt="DTMoney" >
 </p>
 
 <br>
