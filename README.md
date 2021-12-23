@@ -14,17 +14,17 @@
 
 <br>
 
-<p align="center">
-  <img src=".github/gif.gif" width="800" alt="Gif" >
-</p>
-
-<br>
-
 ## :rocket: Sobre
 
 <br>
 
-Simples Projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
+Simples projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
+
+<br>
+
+<p align="center">
+  <img src=".github/gif.gif" width="800" alt="Gif" >
+</p>
 
 <br>
 
