@@ -42,10 +42,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/savio-2-lopes/ignite-dtmoney
+$ git clone https://github.com/savio-2-lopes/DTMoney
 
 # Acesse a pasta
-$ cd ignite-dtmoney
+$ cd DTMoney
 
 # Instale as dependências
 $ yarn
