@@ -18,7 +18,7 @@
 
 <br>
 
-Simples projeto de Gestão pessoal do Profissional de TI React.js com Typescript em desenvolvimento durante o curso da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
+💼 Simples projeto de Gestão do Profissional de TI, desenvolvido utilizando React.js com Typescript durante a trilha React da Ignite, disponibilizado pela  [Rocketseat](https://rocketseat.com.br/).
 
 <br>
 
